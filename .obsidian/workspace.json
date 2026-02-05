@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记事本/software/AI——Vibe Coding.md",
+                "file": "Go2_ROS2/后期.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI——Vibe Coding"
+              "title": "后期"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "4f02803f722876ca",
   "lastOpenFiles": [
+    "Go2_ROS2/总结.md",
     "Go2_ROS2/后期.md",
     "Go2_ROS2/第4章 unitree go2 例程/4.3 导航/4.3.3 导航python.md",
     "Go2_ROS2/第4章 unitree go2 例程/4.3 导航/4.3.2 导航C++.md",
+    "记事本/software/AI——Vibe Coding.md",
     "Go2_ROS2/第4章 unitree go2 例程/4.1 巡航与位置获取/4.1.1 巡航C++.md",
     "Go2_ROS2/第4章 unitree go2 例程/4.3 导航/4.3.1 导航案例分析.md",
     "Go2_ROS2/第4章 unitree go2 例程/4.2 巡航启停/4.2.3 巡航启停python.md",
@@ -199,7 +201,6 @@
     "Go2_ROS2/第4章 unitree go2 例程/4.2 巡航启停/4.2.1 案例简介.md",
     "Go2_ROS2/第3章 unitree_go2_ROS2基础功能包/3.4 ROS2驱动包/1.28 问题.md",
     "Go2_ROS2/第4章 unitree go2 例程/4.1 巡航与位置获取/4.1.2 巡航python.md",
-    "记事本/software/AI——Vibe Coding.md",
     "记事本/software",
     "记事本",
     "周记/1 宇树Go2环境搭建与通信建立.md",
@@ -212,7 +213,6 @@
     "Go2_ROS2/第1章 环境搭建/1.2 网络配置.md",
     "Go2_ROS2/第1章 环境搭建/1.3 连接测试.md",
     "Go2_ROS2/第1章 环境搭建/1.4 案例（C++）.md",
-    "Go2_ROS2/第1章 环境搭建/1.5 案例（python）.md",
-    "Go2_ROS2/第1章 环境搭建/1.1 unitree_ros2 安装.md"
+    "Go2_ROS2/第1章 环境搭建/1.5 案例（python）.md"
   ]
 }
